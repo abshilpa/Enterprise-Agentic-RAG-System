@@ -45,6 +45,3 @@ This system enables:
 - **Deployment:** Docker, AWS (lightweight)
 - **Logging:** Python logging
 
----
-
-## System Architecture

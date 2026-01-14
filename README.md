@@ -45,3 +45,39 @@ This system enables:
 - **Deployment:** Docker, AWS (lightweight)
 - **Logging:** Python logging
 
+---
+
+## Evaluation
+The system is evaluated using **RAGAS**, measuring:
+- Faithfulness
+- Answer relevance
+- Context precision
+- Context recall
+
+Evaluation results are documented and used to iteratively improve prompts and retrieval strategies.
+
+---
+
+## Deployment
+- Containerized using Docker
+- Environment-variable based configuration
+- Cloud-ready for AWS deployment
+
+---
+
+## Limitations & Future Work
+- Authentication & access control
+- Advanced observability (metrics, tracing)
+- Multi-agent collaboration
+- Cost optimization strategies
+
+---
+
+## Demo
+🎥 A short demo video (30–60s) showcasing the system in action is included.
+
+---
+
+## Author
+Built as part of a focused **Applied AI / GenAI Engineering portfolio** to demonstrate production-ready LLM systems.
+
